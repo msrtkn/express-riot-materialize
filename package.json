@@ -1,27 +1,27 @@
 {
-  "name": "express-riot-materiarlize",
-  "version": "1.0.0",
-  "description": "Express",
-  "main": "app.js",
-  "scripts": {
-    "test": "npm app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/msrtkn/express-riot-materialize.git"
-  },
-  "keywords": [
-    "Study"
-  ],
-  "author": "Masaru Takano",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/msrtkn/express-riot-materialize/issues"
-  },
-  "homepage": "https://github.com/msrtkn/express-riot-materialize#readme",
-  "dependencies": {
-    "express": "^4.14.0",
-    "materialize": "^1.0.0",
-    "riot": "^2.5.0"
-  }
+	"name": "express-riot-materiarlize",
+	"version": "1.0.0",
+	"description": "Express",
+	"keywords": [
+		"Study"
+	],
+	"homepage": "https://github.com/msrtkn/express-riot-materialize#readme",
+	"bugs": {
+		"url": "https://github.com/msrtkn/express-riot-materialize/issues"
+	},
+	"license": "MIT",
+	"author": "Masaru Takano",
+	"main": "app.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/msrtkn/express-riot-materialize.git"
+	},
+	"scripts": {
+		"test": "npm app.js"
+	},
+	"dependencies": {
+		"express": "^4.14.0",
+		"materialize": "^1.0.0",
+		"riot": "^2.5.0"
+	}
 }
