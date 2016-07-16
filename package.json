@@ -1,0 +1,22 @@
+{
+  "name": "express-riot-materiarlize",
+  "version": "1.0.0",
+  "description": "Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msrtkn/express-riot-materialize.git"
+  },
+  "keywords": [
+    "Study"
+  ],
+  "author": "Masaru Takano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msrtkn/express-riot-materialize/issues"
+  },
+  "homepage": "https://github.com/msrtkn/express-riot-materialize#readme"
+}
