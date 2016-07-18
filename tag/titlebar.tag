@@ -1,2 +1,2 @@
-<title-bar>
-</title-bar>
+my-title-bar
+  a: hello

@@ -12,5 +12,5 @@ app.get('/', (req, res)=> {
 const server = app.listen(process.argv[2], ()=> {
     const host = server.address().address,
       port = server.address().port
-    console.log('Example app listening at http://%s:%s', host, port)
+    console.log(`http://${host.replace(/::/, 'localhost')}:${port} で待ち受け開始`)
 })
